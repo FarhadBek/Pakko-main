@@ -1,5 +1,8 @@
 <h1>Pakko</h1>
 <h2>
+
+Верстка простого сайта с нуля - Stack:  HTML, SCSS, VS Code, Figma 
+
     <a href="https://anodoree.github.io/Pakko/">
         Demonstration
     </a>
